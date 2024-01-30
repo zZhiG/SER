@@ -121,11 +121,3 @@ def PhotoMetricDistortion(img):
         img = contrast(img)
 
     return img
-
-if __name__ == '__main__':
-    img = Image.open(r"F:\datasets\cityscapes\leftImg8bit\train\bochum\bochum_000000_000313_leftImg8bit.png")
-    img.show()
-    img_np = np.array(img)
-    img_np = PhotoMetricDistortion(img_np)
-    img = Image.fromarray(img_np)
-    img.show()
