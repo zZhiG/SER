@@ -1,6 +1,6 @@
 # SER: A semantics-enhanced refiner 
 
-This manuscript presents a semantics-enhanced refiner for enhancing the detailed texture and global semantic information of image features，and it was accepted by [ICIC 2024](http://www.ic-icc.cn/2024/index.htm).
+This manuscript presents a semantics-enhanced refiner for enhancing the detailed texture and global semantic information of image features.
 
 <div align=center>
 <img src="SER.png" width="400px">
