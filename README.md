@@ -19,6 +19,7 @@ year="2024",
 publisher="Springer Nature Singapore",
 address="Singapore",
 pages="81--92",
-isbn="978-981-97-5603-2"
+isbn="978-981-97-5603-2",
+DOI="doi.org/10.1007/978-981-97-5603-2_7"
 }
 ```
